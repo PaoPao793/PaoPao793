@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @PaoPao793
-- I am a senior at the University of Maryland, majoring in Computer Science and minoring in Linguistics.
-
-  
-- 👀 I’m interested in learning more about Web Development. 
+- I am a recent grad at the University of Maryland, I majored in Computer Science and minored in Linguistics.
+- To find more information about me, [visit my portfolio](https://paola-portfolio-vq8p.vercel.app/)
+- Lets connect on [LinkedIn](https://www.linkedin.com/in/paola-hernandez-aguirre/)
 
 
 
